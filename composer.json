@@ -1,0 +1,19 @@
+{
+    "name": "jean-pasqualini/lesson-security-csrf",
+    "require": {
+        "symfony/security-csrf": "^2.7"
+    },
+    "autoload" :
+    {
+        "psr-4" :
+        {
+            "" : "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jean pasqualini",
+            "email": "jpasqualini75@gmail.com"
+        }
+    ]
+}
